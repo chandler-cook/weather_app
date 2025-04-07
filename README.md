@@ -1,6 +1,8 @@
 # Simple Weather App
 A lightweight, responsive weather app that shows your current location's forecast using Open-Meteo and OpenStreetMap APIs. Automatically detects your geolocation and provides up-to-date temperature, humidity, precipitation, and a 5-day forecast — all wrapped in a sleek Bootstrap-powered UI.
 
+![Image](https://github.com/user-attachments/assets/07567573-ea28-4920-af17-c052050bf23f)
+
 ## Features
 - Auto-detects your current location
 - Uses reverse geocoding to display your city or county
